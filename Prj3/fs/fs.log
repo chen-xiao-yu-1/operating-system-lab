@@ -1,0 +1,16 @@
+[INFO] Use command: mkdir a
+[INFO] Success
+[INFO] Use command: mkdir b
+[INFO] Success
+[INFO] Use command: cd a
+[INFO] Success
+[INFO] Use command: mk c
+[INFO] Success
+[INFO] Use command: ls
+[INFO] Success
+[INFO] Use command: cd ..
+[INFO] Success
+[INFO] Use command: ls
+[INFO] Success
+[INFO] Use command: l
+[INFO] No such command
